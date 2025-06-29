@@ -13,10 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mr.achakzai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr.achakzai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jaffar achakzai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaffar achakzai" height="30" width="40" /></a>
-<a href="https://instagram.com/jaffar_achakxai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaffar_achakxai" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alpha codeing & tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alpha codeing & tech" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jaffar-achakzai-4534682a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaffar-achakzai-4534682a9/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@alpha-codingtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@alpha-codingtech" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
